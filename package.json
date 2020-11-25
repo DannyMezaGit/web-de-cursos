@@ -1,0 +1,20 @@
+{
+  "name": "05-sitio-web-cursos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Meza <danielmeza.4c@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "browserlist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
